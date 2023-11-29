@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.seat span:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+
+}
+
+.ragav:hover{
+ background-color: green;
+ color: white;
+}
+
+.seat1 span:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+
+}
+.seatfull{
+    font-size: small;
+}

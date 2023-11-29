@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+ul li{
+    display:flex;
+}
+
+.movie:hover{
+    cursor: pointer;
+    transform: translateX(0,9);
+}
+
+.collapsenavbar-collapse{
+    font-size:small;
+}
+
+.detect{
+    color: red;
+}
+.event1:hover{
+   transform: scale(0.9);
+}
+
+.event2:hover{
+    transform: scale(0.9);
+ }
+ 
+ .event3:hover{
+    transform: scale(0.9);
+ }
+ .event4:hover{
+    transform: scale(0.9);
+ }
+ .event5:hover{
+    transform: scale(0.9);
+ }
+
+.premieres1:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+}
+
+.premieres2:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+}
+.premieres3:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+}
+.premieres4:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+}
+.premieres5:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+}
